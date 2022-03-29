@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-236
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "springNOFIREidle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				-182
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "springNOFIREup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-216
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "springNOFIREleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				-263
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "springNOFIREright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				-322
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "springNOFIREdown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spingtap",
+	"position": [
+		0,
+		-370
+	],
+	"healthicon": "spingap",
+	"flip_x": false,
+	"healthbar_colors": [
+		118,
+		171,
+		76
+	],
+	"camera_position": [
+		-10,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

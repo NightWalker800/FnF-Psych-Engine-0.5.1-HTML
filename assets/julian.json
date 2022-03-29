@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				251,
+				412
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "whitty idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				560
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "whitty up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				221
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "whitty down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				102,
+				420
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "whitty left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				430
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "whitty right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/undergroundwoaa",
+	"position": [
+		120,
+		510
+	],
+	"healthicon": "whiteballsswag",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-30,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
